@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe@mail.com",
+      "age": "30",
+      "gender": "male"
+    },
+    {
+      "id": "2",
+      "first_name": "Jane",
+      "last_name": "Doe",
+      "email": "jane.doe@mail.com",
+      "age": "25",
+      "gender": "female"
+    },
+    {
+      "id": "3",
+      "first_name": "Bob",
+      "last_name": "Smith",
+      "email": "bob.smith@mail.com",
+      "age": "45",
+      "gender": "male"
+    },
+    {
+      "id": "4",
+      "first_name": "Alice",
+      "last_name": "Jones",
+      "email": "alice.jones@mail.com",
+      "age": "35",
+      "gender": "female"
+    }
+  ]
+}
